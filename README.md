@@ -6,7 +6,7 @@ The LSPD algorithm is a reconstruction algorithm inspired from the Learned Prima
 ### Prerequisites
 
 * [Tensorflow] (https://nodejs.org/en/download/)
-* [ODL] (https://ionicframework.com/getting-started#cli)
+* [ODL] (https://github.com/odlgroup)
 
 
 Pre-trained networks
@@ -26,3 +26,4 @@ The code also requires the utility library [adler](https://github.com/adler-j/ad
 Author
 ------------
 * **Wontek Hong**
+* supervised by **Dr Marta Betcke (UCL) & Dr Andreas Hauptmann (UCL)**
